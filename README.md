@@ -105,4 +105,4 @@ pytest tests/test_pokemon.py
 -	Ожидаемый результат: получим отчет о прохождении тестов.
 
 ## Автор
-Анна Чередникова ([@AnnaC](https://t.me/AnnaC))
+Анна Ч. ([@AnnaC](https://t.me/AnnaC))
